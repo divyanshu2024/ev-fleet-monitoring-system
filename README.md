@@ -32,7 +32,7 @@ A Flask-based web application that enables real-time monitoring and analysis of 
 ---
 
 ### 📊 Dashboard  
-![Dashboard](images/dashboard1.png)  
+![Dashboard](images/dashoboard1.png)  
 ![Dashboard](images/dashboard2.png)
 
 ---
